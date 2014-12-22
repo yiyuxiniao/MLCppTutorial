@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A562686-9F38-4F92-A301-A5AECBEA74BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLCppTutorial</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ECE6D30A2EAD0113DB03F78CB3256E29D6398B5C</key>
+		<string>github.com:yiyuxiniao/MLCppTutorial.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MLCppTutorial.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ECE6D30A2EAD0113DB03F78CB3256E29D6398B5C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:yiyuxiniao/MLCppTutorial.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ECE6D30A2EAD0113DB03F78CB3256E29D6398B5C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ECE6D30A2EAD0113DB03F78CB3256E29D6398B5C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MLCppTutorial</string>
+		</dict>
+	</array>
+</dict>
+</plist>
