@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>CStrings.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
 		<key>Functions.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -47,6 +52,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>68AB82B61A47C9EA00985D9D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>68E2197B1A4423DC009E83F1</key>
 		<dict>
 			<key>primary</key>
