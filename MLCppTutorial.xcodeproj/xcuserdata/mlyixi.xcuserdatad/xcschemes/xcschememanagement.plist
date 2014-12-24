@@ -4,15 +4,45 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Arguments.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
 		<key>Array.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>7</integer>
 		</dict>
+		<key>BTrees.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
 		<key>CStrings.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>8</integer>
+		</dict>
+		<key>Casting.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>Classes.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>EnumType.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>FileIO.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
 		</dict>
 		<key>Functions.xcscheme</key>
 		<dict>
@@ -29,10 +59,40 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>Inheritance.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>InitLists.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>InlineFunc.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>List.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
 		<key>Loops.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>3</integer>
+		</dict>
+		<key>Macros.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>PartedClasses.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
 		</dict>
 		<key>Pointer.xcscheme</key>
 		<dict>
@@ -44,6 +104,16 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>Templates.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>VaList.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
 		<key>Variables.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -52,6 +122,81 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>687A0E5B1A4A5B3A003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0E661A4A5D44003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0E711A4A5E58003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0E7C1A4A6073003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0E871A4A613B003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0E951A4A625F003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EA01A4A641A003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EAB1A4A6E6C003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EB61A4A762C003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EC11A4A771E003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0ECC1A4A7D7E003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0ED71A4A8F36003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EE21A4A9054003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EED1A4A971D003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>687A0EF81A4A986C003D298F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>68AB82B61A47C9EA00985D9D</key>
 		<dict>
 			<key>primary</key>
